@@ -1,7 +1,6 @@
 .content{
     width: 640px;
     margin: auto;
-    margin-top: 150px;
     background-color: #fff;
     color: #262626;
     display: flex;
@@ -67,4 +66,14 @@
     background: #ffebeb;
     border-color: #ff4a4a;
     transition: .2s;
+}
+
+@media  (max-width: 580px) {
+    .content{
+        width: 100%;
+    }
+
+    body{
+        margin: 50px 4%;
+    }
 }

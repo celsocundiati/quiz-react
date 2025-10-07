@@ -14,7 +14,7 @@
 body{
     height: 100vh;
     background-image: linear-gradient(#D8C7FF, #19006C);
-    /* display: flex;
+    display: flex;
     justify-content: center;
-    align-items: center; */
+    align-items: center;
 }
