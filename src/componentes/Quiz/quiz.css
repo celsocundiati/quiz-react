@@ -49,6 +49,8 @@
     font-size: 25px;
     font-weight: 500;
     border-radius: 8px;
+    border: none;
+    outline: none;
 }
 
 .content .index{
