@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Qual dispositivo é necessário para a conexão com a Internet?",
+    option1: "Modem",
+    option2: "Roteador",
+    option3: "Cabo de rede (LAN)",
+    option4: "Pen Drive",
+    ans: 1,
+  },
+  {
+    question: "Qual continente tem o maior número de países?",
+    option1: "Ásia",
+    option2: "Europa",
+    option3: "América do Norte",
+    option4: "África",
+    ans: 4,
+  },
+  {
+    question: "O correio eletrônico não solicitado também é chamado de?",
+    option1: "Spam",
+    option2: "Falso",
+    option3: "Arquivado",
+    option4: "Lixeira",
+    ans: 1,
+  },
+  {
+    question: "Um computador não consegue inicializar (BOOT) se não tiver o quê?",
+    option1: "Aplicações",
+    option2: "Internet",
+    option3: "Sistema Operacional",
+    option4: "Rato",
+    ans: 3,
+  },
+  {
+    question: "A primeira página de um site é chamada de?",
+    option1: "Página de Índice",
+    option2: "Página Inicial",
+    option3: "Mapa do Site",
+    option4: "Pen Drive",
+    ans: 2,
+  },
+];
